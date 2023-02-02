@@ -10,6 +10,7 @@
     ]
   },
   "scripts": {
-    "copy-dist": "cp -r packages/frontend/dist ./dist"
+    "copy-dist": "cp -r packages/frontend/dist ./dist",
+    "clean": "rm -rf dist"
   }
 }
