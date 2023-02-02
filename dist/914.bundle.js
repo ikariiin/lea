@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[914],{3914:(e,r,n)=>{n.r(r),n.d(r,{useQuery:()=>s});var u=n(2784),f=n(3557),t=$RefreshSig$();function s(){t();var e=(0,f.TH)();return u.useMemo((function(){return new URLSearchParams(e.search)}),[e])}t(s,"2C3fFgfpLfpeuWv7tC/2m+4rlHY=",!1,(function(){return[f.TH]}))}}]);
+//# sourceMappingURL=914.bundle.js.map

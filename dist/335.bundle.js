@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[335],{2335:(e,n,t)=>{function o(e){return fetch("https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=".concat(e.latitude,"&lon=").concat(e.longitude)).then((function(e){return e.json()}))}t.r(n),t.d(n,{reverseGeocode:()=>o})}}]);
+//# sourceMappingURL=335.bundle.js.map

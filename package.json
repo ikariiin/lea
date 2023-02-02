@@ -8,5 +8,8 @@
     "packages": [
       "packages/*"
     ]
+  },
+  "scripts": {
+    "copy-dist": "cp -r packages/frontend/dist ./dist"
   }
 }
