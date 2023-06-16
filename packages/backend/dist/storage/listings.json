@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "title": "Software Engineer",
+        "wage": 80000,
+        "position": "Full-time",
+        "description": "We are seeking a skilled Software Engineer to join our team.",
+        "poster": {
+            "id": "1",
+            "name": "John Doe",
+            "company": "ABC Corporation",
+            "email": "johndoe@example.com"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Data Analyst",
+        "wage": 60000,
+        "position": "Part-time",
+        "description": "We are hiring a Data Analyst to analyze and interpret data.",
+        "poster": {
+            "id": "1",
+            "name": "John Doe",
+            "company": "ABC Corporation",
+            "email": "johndoe@example.com"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Marketing Specialist",
+        "wage": 70000,
+        "position": "Full-time",
+        "description": "Join our marketing team and help us promote our products.",
+        "poster": {
+            "id": "3",
+            "name": "Alex Johnson",
+            "company": "PQR Industries",
+            "email": "alexjohnson@example.com"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "company": "ABC Corporation",
+    "email": "johndoe@example.com"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "company": "XYZ Corp",
+    "email": "janesmith@example.com"
+  },
+  {
+    "id": "3",
+    "name": "Alex Johnson",
+    "company": "PQR Industries",
+    "email": "alexjohnson@example.com"
+  }
+]
